@@ -1,0 +1,2 @@
+# Truco-OS
+open source 
